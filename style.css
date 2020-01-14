@@ -1,0 +1,33 @@
+    body{
+        background-color: black;
+    }
+    
+    h1 {
+        color: red;
+        font-size: 50px;
+    }
+
+    h1, h2{
+        text-align: center;
+        color:springgreen;
+    }
+
+    li.dairy{
+        color:white;
+    }
+    li {
+        color:greenyellow;
+    }
+    p{
+        color:white;
+        font-weight: bold;
+    }
+    img.tacos{
+        width: 800px;
+    }
+    img{
+        border-color: greenyellow;
+        border-style: dashed;
+        border-width: 1px;
+        border-radius: 5px;
+    }
