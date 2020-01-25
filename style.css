@@ -10,7 +10,8 @@
 
     h2{
         text-align: center;
-        color:goldenrod;
+        color:Brown;
+        font-size: 25px;
     }
 
     p{
@@ -35,11 +36,17 @@
     
     li{
         text-align: center;
-        
         color: brown;
     }
        
     ul li.list{
+        list-style-type: disc;
+        list-style-position: inside;
+        text-indent: -5em;
+        padding-block-start: 0;
+    }
+    
+    ul li.ing{
         list-style-type: disc;
         list-style-position: inside;
         text-indent: -5em;
